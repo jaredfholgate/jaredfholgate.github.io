@@ -4,7 +4,7 @@
     body {
        height: 100%;
        font-family:fantasy;
-       background-color: grey;
+       background: linear-gradient(to bottom, #aebcbf 0%,#aebcbf 10%,#6e7774 35%,#6e7774 35%,#0a0809 79%);
        color: white;
     }
 
@@ -14,6 +14,7 @@
         font-size: ;
         display: block;
         width: 790px;
+        color: #254372;
     }
     nav {
         line-height:;
