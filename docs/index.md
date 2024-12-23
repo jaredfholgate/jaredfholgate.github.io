@@ -1,7 +1,7 @@
 ---
 layout: title
-title: Home
-description: Jared Holgate's Blog
+title: Jared Holgate's Blog
+description: Home
 ---
 
 ## Welcome to my Blog
