@@ -26,13 +26,16 @@
 
 .header-logo {
   width:5rem;
-  flex:3%;
   display: flex;
   padding-top: 1rem;
 }
 
+.header-logo-link {
+  float:left;
+}
+
 .project-name {
-  flex:80%;
+  flex:100%;
   align-self: center;
   text-align: center;
 }
