@@ -1,0 +1,89 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+
+  @include large {
+    padding: 1rem 1rem;
+  }
+
+  @include medium {
+    padding: 1rem 1rem;
+  }
+
+  @include small {
+    padding: 1rem 1rem;
+  }
+}
+
+.header-logo {
+  width:10rem;
+  display: flex;
+  padding-top: 1rem;
+}
+
+table.rouge-table td pre {
+  margin: 0 !important;
+  border: none !important;
+}
+
+table.rouge-table td pre.lineno {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  padding-left: 5px !important;
+  padding-right: 5px !important;
+  background-color: #dce6f0 !important;
+  border-radius: 0 !important;
+  border-right: 1px solid #4c739b !important;
+}
+
+table.rouge-table td.rouge-code pre {
+  padding: 0 !important;
+  border-radius: 0% !important;
+  background-color: #e8edf3 !important;
+}
+
+table.rouge-table td {
+  border: none !important;
+}
+
+table.rouge-table td.rouge-code {
+  padding: 0 !important;
+}
+
+table.rouge-table td.rouge-gutter {
+  padding-right: 5px !important;
+}
+
+pre.highlight > div.code-div {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+pre.highlight > div.code-div > button {
+  opacity: 0;
+}
+
+pre.highlight:hover > div.code-div > button {
+  opacity: 1;
+}
+
+pre.highlight > div.code-div > button:active,
+pre.highlight  > div.code-div > button:focus {
+  opacity: 1;
+}
+
+td.gutter {
+  padding-right:10px !important;
+}
+
+table.rouge-table {
+  background-color: #e8edf3 !important;
+}
