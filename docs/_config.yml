@@ -5,7 +5,7 @@ title: Terraform on Azure Fundamentals Labs
 description: |
   A set of labs to introduce Terraform on Azure
 show_downloads: true
-url: https://azure-samples.github.io/terraform-fundamentals-labs
+url: https://jaredholgate.co.uk
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
