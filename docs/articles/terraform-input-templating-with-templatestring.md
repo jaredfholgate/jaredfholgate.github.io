@@ -8,6 +8,7 @@ date: 2024-11-02T18:00:00
 > NOTE: This article was cross-published to the [Azure Terraformer](https://medium.com/azure-terraformer) blog on Medium. You can read the article [here](https://medium.com/azure-terraformer/terraform-input-templating-with-the-templatestring-function-a81583777ed1)
 
 ![Terraform templatestring]({{ '/assets/images/templatestring.jpg' | relative_url }})
+_Complex merging with templatestring_
 
 The introduction of the `templatestring` function in [Terraform 1.9](https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2Fhashicorp%2Fterraform%2Fblob%2Fv1.9.0%2FCHANGELOG.md) opens up some interesting opportunities to provide more dynamic input to Terraform modules. Here we cover the basics and a more advanced use case.
 
