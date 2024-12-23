@@ -17,7 +17,7 @@ The `templatestring` function accepts a templated `string` and a replacements `d
 
 For example:
 
-```hcl
+```terraform
 locals {
   templated_string = "Hello $${world_placeholder}"
 
