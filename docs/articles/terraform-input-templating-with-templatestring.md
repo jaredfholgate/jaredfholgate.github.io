@@ -336,6 +336,6 @@ This is a really useful feature when building modules consumed by a wide audienc
 
 ## References
 
-templatestring docs: <https://developer.hashicorp.com/terraform/language/functions/templatestring>
-Templating syntax: <https://developer.hashicorp.com/terraform/language/expressions/strings>
-Examples used in this post: <https://github.com/jaredfholgate/terraform-templatestring-demos>
+* templatestring docs: <https://developer.hashicorp.com/terraform/language/functions/templatestring>
+* Templating syntax: <https://developer.hashicorp.com/terraform/language/expressions/strings>
+* Examples used in this post: <https://github.com/jaredfholgate/terraform-templatestring-demos>
