@@ -10,7 +10,7 @@ Hi, thanks for visiting. This is my blog where I write about technology, DevOps,
 
 ## Articles
 
-[TBC]()
+* [Terraform input templating with the `templatestring` function](terraform-input-templating-with-templatestring.md) [Published: 2024-11-02]
 
 ## About Me
 
