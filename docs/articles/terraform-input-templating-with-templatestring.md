@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Terraform input templating with the `templatestring` function
-description: The introduction of the `templatestring` function in Terraform 1.9 opens up some interesting opportunities to provide more dynamic input to Terraform modules. Here we cover the basics and a more advanced use case.
+title: Terraform input templating with the templatestring function
+description: The introduction of the templatestring function in Terraform 1.9 opens up some interesting opportunities to provide more dynamic input to Terraform modules. Here we cover the basics and a more advanced use case.
 date: 2024-11-02T18:00:00
 ---
 
