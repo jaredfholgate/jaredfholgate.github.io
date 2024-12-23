@@ -32,12 +32,15 @@
 
 .header-logo-link {
   float:left;
+  position: absolute;
 }
 
 .project-name {
   flex:100%;
   align-self: center;
   text-align: center;
+  padding-left: 6rem;
+  padding-right: 6rem;
 }
 
 .project-tagline {
