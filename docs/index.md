@@ -10,7 +10,7 @@ Hi, thanks for visiting
 
 ## Articles
 
-
+[TBC]()
 
 ## About Me
 
@@ -23,7 +23,14 @@ Jared is a Cloud Solution Architect at Microsoft, working in the Customer Archit
 
 ## Older Articles
 
-Here are some older articles that I transfered from my old blog.
+Here are some older articles that I transfered from my old blog. Some of them are about technology or sites that no longer exist, but keeping them here for posterity.
 
-
-[My first blog post](articles/001.md)
+* [Back to Basics: Take a Nibble or a Byte?](articles/009.md) [Published: 2021-01-01]
+* [MonoRepo vs Multiple Repo with some Microsoft .NET specifics](articles/008.md) [Published: 2018-08-17]
+* [Deploying ASP.NET Core 2.0 Apps to IIS with On Premise TFS 2018 Update 1 Release Management](articles/007.md) [Published: 2018-04-04]
+* [Masked Data vs Generated Test Data](articles/006.md) [Published: 2017-11-27]
+* [How to use Dropbox to add attachments and embed images in your own website](articles/005.md) [Published: 2017-11-27]
+* [How to Create Files and Folders Starting with Dot and no file extension in Windows Explorer](articles/004.md) [Published: 2017-10-16]
+* [Enable bundling and minification in Visual Studio 2017 for ASP.NET Core 2](articles/003.md) [Published: 2017-09-11]
+* [Blog, Technology Stack, CosmosDB, ASP.NET Core, C#, Bootstrap, Markdown, Azure App Service](articles/002.md) [Published: 2017-09-11]
+* [My first blog post](articles/001.md) [Published: 2017-09-10]
