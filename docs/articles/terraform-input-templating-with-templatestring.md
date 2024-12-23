@@ -18,7 +18,7 @@ The `templatestring` function accepts a templated `string` and a replacements `d
 
 For example:
 
-```terraform
+```hcl
 locals {
   templated_string = "Hello $${world_placeholder}"
 
@@ -36,7 +36,7 @@ output "example" {
 
 The output of this is:
 
-```terraform
+```hcl
 example = "Hello World"
 ```
 
@@ -44,7 +44,7 @@ Take note of the double-dollar `$$` syntax. This is required to avoid Terraform 
 
 Ok, you are probably thinking that is a very convoluted way to interpolate a string. Now imagine that the templated string is a resource name and that replacements includes the attributes that form your naming convention. For example:
 
-```terraform
+```hcl
 variable "resource_group_name" {
   type    = string
   default = "rg-$${service}-$${environment}-$${location}-$${number_01}"
@@ -86,7 +86,7 @@ output "example" {
 
 The output of this is:
 
-```terraform
+```hcl
 example = "rg-demo-prod-uksouth-1"
 ```
 
@@ -98,7 +98,7 @@ Now that seems more useful, but not very dynamic…
 
 We can be a bit clever with this by generating and merging maps to provide the replacements. We can also use a collection as our templated string input and iterate over that to create multiple resource names. Take a look at this example:
 
-```terraform
+```hcl
 variable "resource_group_names" {
   type = map(string)
   default = {
@@ -175,7 +175,7 @@ output "example" {
 
 The output of this is:
 
-```terraform
+```hcl
 example = {
   "dev"  = "rg-demo-dev-uksouth-001"
   "prd1" = "rg-demo-prod-uksouth-001"
@@ -197,7 +197,7 @@ What other options do we have? As of today, we can use a bit of a trick by conve
 
 Here is an example:
 
-```terraform
+```hcl
 variable "complex_object" {
   type = any
   default = {
@@ -301,7 +301,7 @@ output "example" {
 
 The output of this is:
 
-```terraform
+```hcl
 example = {
   "nested_object" = {
     "custom_replacements" = "level-01-custom-hello-world-123"
