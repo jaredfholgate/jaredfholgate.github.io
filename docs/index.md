@@ -6,7 +6,7 @@ description: Jared Holgate's Blog
 
 ## Welcome to my Blog
 
-Hi, thanks for visiting
+Hi, thanks for visiting. This is my blog where I write about technology, DevOps, Infrastructure as Code and other things that interest me.
 
 ## Articles
 
@@ -16,10 +16,12 @@ Hi, thanks for visiting
 
 Jared is a Cloud Solution Architect at Microsoft, working in the Customer Architecture and Engineering Team. He is a tech lead for Azure Verified Modules and Azure Landing Zones with a particular focus on IaC with Terraform. Prior to Microsoft Jared worked in Software Engineering as an individual contributor and leader. Most recently he worked at HashiCorp as a Terraform SME. He likes to talk about DevOps and Infrastructure as Code.
 
+I co-organise [Yorkshire DevOps](https://yorkshiredevops.dev), come and join us at one of our events.
+
 ## Get in Touch
 
-[LinkedIn](https://www.linkedin.com/in/jaredfholgate/)
-[Bluesky](https://bsky.app/profile/jared.holgate.dev)
+* [LinkedIn](https://www.linkedin.com/in/jaredfholgate/)
+* [Bluesky](https://bsky.app/profile/jared.holgate.dev)
 
 ## Older Articles
 
