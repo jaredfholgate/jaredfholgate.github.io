@@ -10,6 +10,7 @@ Hi, thanks for visiting. This is my blog where I write about technology, DevOps,
 
 ## Articles
 
+* [Microsoft Azure Networking for Developers](articles/azure-networking-for-developers.md) *Published: 2025-03-27*
 * [Terraform input templating with the `templatestring` function](articles/terraform-input-templating-with-templatestring.md) *Published: 2024-11-02*
 
 ## About Me
