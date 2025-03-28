@@ -19,4 +19,4 @@ Some links to other resources that I mentioned in the session:
 * [Well Architected Framework Network Controls](https://learn.microsoft.com/en-gb/azure/well-architected/security/networking){:target="_blank"}{:rel="noopener noreferrer"}
 * [Well Architected Framework Infrastrucutre as Code](https://learn.microsoft.com/en-gb/azure/well-architected/operational-excellence/infrastructure-as-code-design){:target="_blank"}{:rel="noopener noreferrer"}
 
-You can find the deck here: [Azure Networking for Developers Leeds Sharp 2025 03 27.pdf]({{ '/assets/files/Azure Networking for Developers Leeds Sharp 2025 03 27.pdf' | relative_url }}){:target="_blank"}{:rel="noopener noreferrer"}
+You can find the deck here: [Azure Networking for Developers Leeds Sharp 2025 03 27.pdf]({{ '/assets/files/Azure Networking for Developers LeedsSharp 2025 03 27.pdf' | relative_url }}){:target="_blank"}{:rel="noopener noreferrer"}
