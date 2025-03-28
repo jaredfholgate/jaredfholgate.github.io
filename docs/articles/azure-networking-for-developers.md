@@ -5,8 +5,10 @@ description: Microsoft Azure Networking for Developers session at the March 2025
 date: 2025-03-27T18:00:00
 ---
 
-## Azure Networking for Developers Deck
+## Microsoft Azure Networking for Developers
 
 This article is to share content from the Microsoft Azure Networking for Developers session [27th March 2025 at LeedSharp](https://www.meetup.com/leeds-sharp/events/305111364/).
+
+The deck covers some fundamentals of Azure networking and touches on [Azure Landing Zones](https://aka.ms/alz){:target="_blank"}{:rel="noopener noreferrer"} and [Azure Verified Modules](https://aka.ms/avm){:target="_blank"}{:rel="noopener noreferrer"}.
 
 You can find the deck here: [Azure Networking for Developers Leeds Sharp 2025 03 27.pdf]({{ '/assets/files/Azure Networking for Developers Leeds Sharp 2025 03 27.pdf' | relative_url }}){:target="_blank"}{:rel="noopener noreferrer"}
