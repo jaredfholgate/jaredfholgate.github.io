@@ -13,6 +13,7 @@ The deck covers some fundamentals of Azure networking and touches on [Azure Land
 
 Some links to other resources that I mentioned in the session:
 
+* [Azure Landing Zones IaC Accelerator](https://alz/acc){:target="_blank"}{:rel="noopener noreferrer"}
 * [Microsoft Cloud Adoption Framework](https://aka.ms/caf){:target="_blank"}{:rel="noopener noreferrer"}
 * [Cloud Adoption Framework Azure Landing Zones Networking](https://learn.microsoft.com/en-gb/azure/cloud-adoption-framework/ready/landing-zone/design-area/network-topology-and-connectivity){:target="_blank"}{:rel="noopener noreferrer"}
 * [Microsoft Well Architected Framework](https://aka.ms/waf){:target="_blank"}{:rel="noopener noreferrer"}
