@@ -19,6 +19,8 @@ Jared is a Cloud Solution Architect at Microsoft, working in the Global Customer
 
 I co-organise [Yorkshire DevOps](https://yorkshiredevops.dev) and [Yorkshire Azure User Group](https://yorkshireazuregroup.cloud). Come and join us at one of our events.
 
+You can find my full CV [here](https://jaredholgate.co.uk/cv/).
+
 ## Get in Touch
 
 * [LinkedIn](https://www.linkedin.com/in/jaredfholgate/)
