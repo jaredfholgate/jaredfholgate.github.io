@@ -13,6 +13,7 @@ Hi, thanks for visiting. This is my blog where I write about technology, DevOps,
 * [How to Write a Thread-Safe Singleton in C# 13](articles/thread-safe-singleton-in-csharp.md) *Published: 2026-03-11*
 * [Microsoft Azure Networking for Developers](articles/azure-networking-for-developers.md) *Published: 2025-03-27*
 * [Terraform input templating with the `templatestring` function](articles/terraform-input-templating-with-templatestring.md) *Published: 2024-11-02*
+* [Back to Basics: Take a Nibble or a Byte?](articles/back-to-basics-take-a-nibble-or-a-byte.md) *Published: 2021-01-01*
 
 ## About Me
 
@@ -31,7 +32,6 @@ I co-organise [Yorkshire DevOps](https://yorkshiredevops.dev) and [Yorkshire Azu
 
 Here are some older articles that I transfered from my old blog. Some of them are about technology or sites that no longer exist, but keeping them here for posterity.
 
-* [Back to Basics: Take a Nibble or a Byte?](articles/009.md) *Published: 2021-01-01*
 * [MonoRepo vs Multiple Repo with some Microsoft .NET specifics](articles/008.md) *Published: 2018-08-17*
 * [Deploying ASP.NET Core 2.0 Apps to IIS with On Premise TFS 2018 Update 1 Release Management](articles/007.md) *Published: 2018-04-04*
 * [Masked Data vs Generated Test Data](articles/006.md) *Published: 2017-11-27*
