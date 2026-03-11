@@ -10,6 +10,7 @@ Hi, thanks for visiting. This is my blog where I write about technology, DevOps,
 
 ## Articles
 
+* [How to Write a Thread-Safe Singleton in C# 13](articles/thread-safe-singleton-in-csharp.md) *Published: 2026-03-11*
 * [Microsoft Azure Networking for Developers](articles/azure-networking-for-developers.md) *Published: 2025-03-27*
 * [Terraform input templating with the `templatestring` function](articles/terraform-input-templating-with-templatestring.md) *Published: 2024-11-02*
 
