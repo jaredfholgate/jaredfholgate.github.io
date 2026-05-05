@@ -19,7 +19,7 @@ Hi, thanks for visiting. This is my blog where I write about technology, DevOps,
 
 You can find my full CV [here](https://jaredholgate.co.uk/cv/).
 
-Jared is a Cloud Solution Architect at Microsoft, working in the Global Customer Success Tech Strategy team. He is a tech lead for Azure Verified Modules and Azure Landing Zones with a particular focus on IaC with Terraform. Prior to Microsoft Jared worked in Software Engineering as an individual contributor and leader. Most recently he worked at HashiCorp as a Terraform SME. He likes to talk about DevOps and Infrastructure as Code.
+Jared is a Senior Software Engineer at Microsoft on the Azure Deployments and Bicep team, contributing to the core Azure Resource Manager deployment stack and the Bicep language and tooling. He continues to lead Azure Verified Modules (AVM) and Azure Landing Zones (ALZ), driving module standards, automation at scale, and adoption across thousands of enterprise customers. Prior to this role Jared was a Senior Cloud Solution Architect at Microsoft, and before that worked at HashiCorp as a Terraform SME, with a long earlier career in software engineering as an individual contributor and leader. He likes to talk about DevOps and Infrastructure as Code.
 
 I co-organise [Yorkshire DevOps](https://yorkshiredevops.dev) and [Yorkshire Azure User Group](https://yorkshireazuregroup.cloud). Come and join us at one of our events.
 
